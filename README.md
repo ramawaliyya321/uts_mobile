@@ -13,14 +13,14 @@ Aplikasi ini adalah proyek sederhana menggunakan Flutter yang mengambil data fil
 1. **Clone repositori ini**:
 
    ```bash
-   git clone https://github.com/Hudzaiflank/MidTerm-MobileAppDev.git
+   git clone https://github.com/ramawaliyya321/uts_mobile.git
 
    ```
 
 2. **Masuk ke direktori proyek**:
 
    ```bash
-   cd MidTerm-MobileAppDev
+   cd uts_mobile
    ```
 
 3. **Install dependencies**:
